@@ -33,7 +33,8 @@ public class AppTest
      */
     public void testApp()
     {
-    	//Test Added
+    	//Test Added 2
+    	//comment added
         assertTrue( true );
     }
 }
